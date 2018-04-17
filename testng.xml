@@ -3,7 +3,9 @@
 <suite name="Suite1" verbose="1" >
   <test name="Nopackage" >
     <classes>
-       <class name="mobileTest.basic" />
+       <class name="mobileTest.basicTC_1" />
+       <class name="mobileTest.TouchPressMoveTC_2" />
+        <class name="mobileTest.DrugAndDropTC_3" />
     </classes>
   </test>
 </suite>

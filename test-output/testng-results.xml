@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="87782" started-at="2018-01-14T21:51:38Z" finished-at="2018-01-14T21:53:06Z">
+  <suite name="Default suite" duration-ms="27678" started-at="2018-04-17T22:00:44Z" finished-at="2018-04-17T22:01:12Z">
     <groups>
     </groups>
-    <test name="Nopackage" duration-ms="87782" started-at="2018-01-14T21:51:38Z" finished-at="2018-01-14T21:53:06Z">
-      <class name="mobileTest.basic">
-        <test-method status="PASS" signature="runtest()[pri:0, instance:mobileTest.basic@ff5b51f]" name="runtest" duration-ms="87675" started-at="2018-01-14T16:51:38Z" finished-at="2018-01-14T16:53:06Z">
+    <test name="Default test" duration-ms="27678" started-at="2018-04-17T22:00:44Z" finished-at="2018-04-17T22:01:12Z">
+      <class name="mobileTest.MobileStatusTC_4">
+        <test-method status="PASS" signature="MobileStatus()[pri:0, instance:mobileTest.MobileStatusTC_4@72d818d1]" name="MobileStatus" duration-ms="27646" started-at="2018-04-17T18:00:44Z" finished-at="2018-04-17T18:01:12Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- runtest -->
-      </class> <!-- mobileTest.basic -->
-    </test> <!-- Nopackage -->
-  </suite> <!-- Suite1 -->
+        </test-method> <!-- MobileStatus -->
+      </class> <!-- mobileTest.MobileStatusTC_4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
